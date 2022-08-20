@@ -1,0 +1,74 @@
+.container-fluid {
+    margin: 0 auto;
+    background: #212529;
+    color: white;
+    height: 50px;
+}
+.btn-dark {
+    height: 50px;
+    weight: 100px;
+}
+
+.btn.btn-dark {
+    color: #adb5bd;
+}
+
+.col-auto {
+    padding-top: 5px;
+    font-size: x-large;
+}
+
+.email {
+    font-weight: bold;
+    float: left;
+}
+
+.role {
+    float: left;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.rolemain {
+    float: right;
+}
+
+.col-2.buttons{
+    padding-right: 0;
+}
+
+.btn.btn-primary {
+    min-width: 100%;
+    margin-top: 15px;
+    padding-right: 0;
+    text-align: start;
+    padding-left: 20px;
+    font-size: larger;
+}
+
+.col.tables {
+    background: whitesmoke;
+    min-height: 1000px;
+    padding-left: 0;
+}
+
+.row.tablemain {
+    margin-right: 50px;
+}
+
+.subtableheader {
+    margin-left: 15px;
+    padding: 25px;
+}
+
+.table.table-bordered {
+    margin-left: 30px;
+    border: gray;
+}
+
+.aboutuser {
+    font-size: 20px;
+}
+
+
+

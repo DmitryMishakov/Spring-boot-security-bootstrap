@@ -1,0 +1,78 @@
+.container-fluid {
+    margin: 0 auto;
+    background: #212529;
+    color: white;
+    height: 50px;
+}
+
+.btn-dark {
+    height: 50px;
+    weight: 100px;
+}
+
+.btn.btn-dark {
+    color: #adb5bd;
+}
+
+.col-auto {
+    padding-top: 5px;
+    font-size: x-large;
+}
+
+.email {
+    font-weight: bold;
+    float: left;
+}
+
+.role {
+    float: left;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.rolemain {
+    float: right;
+}
+
+.btn.btn-outline-primary {
+    width: 100%;
+    border: white;
+    text-align: start;
+    font-size: larger;
+}
+
+.col-2.buttons {
+    padding-right: 0;
+    margin-top: 15px;
+}
+.subtableheader {
+    margin-left: 18px;
+    padding: 25px;
+}
+
+.nav.nav-tabs {
+    margin-left: 30px;
+}
+
+.tab-content.maintab {
+    padding-left: 0;
+}
+
+.btn.btn-outline-primary {
+    min-width: 100%;
+    margin-top: 15px;
+    padding-right: 0;
+    text-align: start;
+    padding-left: 20px;
+    font-size: larger;
+}
+
+.btn.btn-outline-primary.secondbtn {
+    margin-top: 0;
+}
+
+.admintab {
+    margin-left: 30px;
+    border: gray;
+}
+
